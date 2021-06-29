@@ -1,0 +1,16 @@
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\AssimpNet.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\GlmNet.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\OpenTK.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\AssimpNet.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\GlmNet.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\OpenTK.pdb
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\OpenTK.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\obj\Debug\PlanetRock.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\obj\Debug\PlanetRock.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\obj\Debug\PlanetRock.csproj.CopyComplete
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\PlanetRock.exe.config
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\PlanetRock.exe
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\bin\Debug\PlanetRock.pdb
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\obj\Debug\PlanetRock.Properties.Resources.resources
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\obj\Debug\PlanetRock.exe
+C:\Users\hands\source\repos\LearnOpenGLCN\PlanetRock\obj\Debug\PlanetRock.pdb

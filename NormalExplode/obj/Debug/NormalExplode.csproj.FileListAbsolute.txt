@@ -1,0 +1,16 @@
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\blendTest.exe.config
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\blendTest.exe
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\blendTest.pdb
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\AssimpNet.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\GlmNet.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\OpenTK.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\AssimpNet.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\GlmNet.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\OpenTK.pdb
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\bin\Debug\OpenTK.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\obj\Debug\blendTest.Properties.Resources.resources
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\obj\Debug\NormalExplode.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\obj\Debug\NormalExplode.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\obj\Debug\NormalExplode.csproj.CopyComplete
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\obj\Debug\blendTest.exe
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalExplode\obj\Debug\blendTest.pdb

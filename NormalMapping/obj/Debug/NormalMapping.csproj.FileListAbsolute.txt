@@ -1,0 +1,15 @@
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\obj\Debug\NormalMapping.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\NormalMapping.exe.config
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\NormalMapping.exe
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\NormalMapping.pdb
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\AssimpNet.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\GlmNet.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\OpenTK.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\AssimpNet.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\GlmNet.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\OpenTK.pdb
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\bin\Debug\OpenTK.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\obj\Debug\NormalMapping.csproj.CopyComplete
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\obj\Debug\NormalMapping.exe
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\obj\Debug\NormalMapping.pdb
+C:\Users\hands\source\repos\LearnOpenGLCN\NormalMapping\obj\Debug\NormalMapping.csproj.AssemblyReference.cache

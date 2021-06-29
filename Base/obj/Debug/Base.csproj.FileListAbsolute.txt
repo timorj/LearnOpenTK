@@ -1,0 +1,17 @@
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\Base.exe.config
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\Base.exe
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\Base.pdb
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\AssimpNet.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\GlmNet.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\OpenTK.dll
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\AssimpNet.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\GlmNet.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\OpenTK.pdb
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\bin\Debug\OpenTK.xml
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\obj\Debug\Base.csprojAssemblyReference.cache
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\obj\Debug\Base.Properties.Resources.resources
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\obj\Debug\Base.csproj.GenerateResource.cache
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\obj\Debug\Base.csproj.CopyComplete
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\obj\Debug\Base.exe
+C:\Users\hands\source\repos\LearnOpenGLCN\Base\obj\Debug\Base.pdb
